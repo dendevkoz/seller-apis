@@ -19,7 +19,7 @@ def get_product_list(last_id, client_id, seller_token):
     Args:
         last_id (str): Идентификатор последнего значения на странице.
         client_id (str): Идентификатор клиента OZON
-        seller_token (str): API-ключ Ozon Seller
+        seller_token (str): API-ключ OZON Seller
 
     Returns:
         dict: Список товаров с их свойствами
@@ -54,7 +54,7 @@ def get_offer_ids(client_id, seller_token):
 
     Args:
         client_id (str): Идентификатор клиента OZON
-        seller_token (str): API-ключ Ozon Seller
+        seller_token (str): API-ключ OZON Seller
 
     Returns:
         list: Список артикулов товаров с OZON
