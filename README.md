@@ -1,5 +1,21 @@
 # seller-apis 
 
+## Переменные окружения
+
+Для работы с OZON:
+
+- `SELLER_TOKEN` - API-ключ OZON Seller.
+- `CLIENT_ID` - Идентификатор клиента OZON. 
+
+Для работы с Яндекс.Маркет:
+
+- `MARKET_TOKEN` - API-ключ продавца Яндекс.Маркет.
+- `FBS_ID` - ID кампании и ID магазина с FBS моделью. 
+- `DBS_ID` - ID кампании и ID магазина с DBS моделью.
+- `WAREHOUSE_FBS_ID` - ID склада FBS. 
+- `WAREHOUSE_DBS_ID` - ID склада DBS.
+
+
 ## Описание программы
 
 ### seller.py
