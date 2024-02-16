@@ -5,7 +5,7 @@
 Для работы с OZON:
 
 - `SELLER_TOKEN` - API-ключ OZON Seller.
-- `CLIENT_ID` - Идентификатор клиента OZON. 
+- `CLIENT_ID` - ID клиента OZON. 
 
 Для работы с Яндекс.Маркет:
 
